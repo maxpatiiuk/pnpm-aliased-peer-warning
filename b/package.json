@@ -1,0 +1,8 @@
+{
+  "name": "b",
+  "dependencies": {
+    "a": "../a/a-1.0.0.tgz",
+    "tslib-aliased": "npm:tslib@^2.8.1",
+    "tslib": "npm:tslib@^2.8.1"
+  }
+}

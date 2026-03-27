@@ -1,0 +1,10 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "tslib-aliased": "npm:tslib@^2.8.1"
+  },
+  "devDependencies": {
+    "tslib-aliased": "npm:tslib@^2.8.1"
+  }
+}
